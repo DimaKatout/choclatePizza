@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
+#logo{
+    padding-left: 210px;
+    padding-top: 30px;
+ 
+}
+.title{
+    padding-left: 260px;
+    margin-top: -50px;
+    font-weight: bold;
+    font-family:'Pacifico', cursive;
+    ;
+}
+
+.subTitle{
+
+    font-family: 'Oxanium', cursive;
+color: gray;
+padding-left: 260px;
+margin-top: -20px;    
+}
+
+.headerPhotos{
+/*margin-left: 8800px;*/
+float: right;
+/*position:absolute;*/
+margin-top: -50px;
+}
+
+header{
+    width: 1110px;
+}
+
+.mainPhoto{
+    /*position: center;*/
+    margin: auto;
+    display: block;
+    padding-top: 200px;
+}
