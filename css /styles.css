@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Oxanium&display=swap');
 #logo{
     padding-left: 210px;
     padding-top: 30px;
@@ -29,7 +30,7 @@ margin-top: -50px;
 }
 
 header{
-    width: 1110px;
+    width: 1090px;
 }
 
 .mainPhoto{
@@ -38,3 +39,33 @@ header{
     display: block;
     padding-top: 200px;
 }
+
+
+.mainnheader{
+   margin-top: 200px;
+   font-family: 'Oxanium', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-weight: bold;
+   
+}
+
+.subheader{
+    font-family: 'Oxanium', cursive;
+    color: lightgray;
+
+}
+
+/*.prinPhoto{
+
+
+}*/
+
+/*.myform{
+    background-image:url("list-bg.png");
+
+}*/
+.left{float: left;
+}
+
+.right{float: right;}
+
