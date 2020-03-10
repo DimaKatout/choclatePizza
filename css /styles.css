@@ -2,9 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One|Oxanium&display=swap');
 #logo{
-    padding-left: 210px;
-    padding-top: 30px;
+    
  
+}
+.bord{
+    background-image: url('../images/hr-img.png');
 }
 .title{
     padding-left: 260px;
@@ -60,12 +62,31 @@ font-weight: bold;
 
 }*/
 
-/*.myform{
-    background-image:url("list-bg.png");
+.myform{
+    height: 499px;
+    width: 658px;
+    background-image:url("../images/list-bg.png");
+    height: 499px;
+    width: 658px;
+    background-size: cover;
+    background-repeat: no-repeat;
 
-}*/
-.left{float: left;
+}
+.left{
+    display: inline-grid;
+    float: left;
 }
 
-.right{float: right;}
+.right{float: right;
+    display: inline-grid;
+}
+.header{
+    width: 1064px;
+    margin-left: 125px;
+    margin-right: 0px;
+    padding-top: 30px;
+}
+.container{
+    width: 1090px;
+}
 
